@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "title": "Warm Hearts for Winter",
+    "image": "https://img.freepik.com/free-photo/wall-holiday-valentine-s-day-handmade-hearts_169016-4965.jpg?t=st=1731905018~exp=1731908618~hmac=66ee5f1cc34c925df217ac5a1d4376f9ca4aaa47b13717390c50e580951549e8&w=1380",
+    "description": "Help provide winter jackets to those in need this season. Our initiative focuses on collecting and distributing new and gently used winter jackets to vulnerable communities across the region. We particularly emphasize helping children, elderly, and homeless individuals who are most susceptible to harsh winter conditions. Working with local community centers and schools, we ensure the jackets reach those who need them most.",
+    "status": "Active",
+    "contactInfo": "+880 1711-234567",
+    "division": "Dhaka"
+  },
+  {
+    "id": 2,
+    "title": "Cozy Coats Drive",
+    "image": "https://img.freepik.com/free-photo/medium-shot-friends-traveling-together_23-2149236018.jpg?t=st=1731905112~exp=1731908712~hmac=2e84082cc80e706c426c0eb590702a4f6eda567bb7afee055578471ae21a15a2&w=1380",
+    "description": "Join our comprehensive winter clothing drive focused on collecting coats and scarves for underprivileged communities. We collaborate with local dry cleaners to ensure all donated items are cleaned and in good condition before distribution. Our volunteers conduct size-sorting sessions to match recipients with appropriately sized clothing, ensuring dignity and comfort for everyone we serve.",
+    "status": "Active",
+    "contactInfo": "support@cozycoats.org.bd",
+    "division": "Chittagong"
+  },
+  {
+    "id": 3,
+    "title": "Gloves of Love",
+    "image": "https://img.freepik.com/free-photo/gloved-hands-holding-white-heart_23-2147592058.jpg?t=st=1731905238~exp=1731908838~hmac=0a77fa8fec7dac246fd1a6b49a5f1e09ca75a2edd8ba88f98c0c7a52d5ce0909&w=1380",
+    "description": "Our specialized campaign focuses on providing essential hand protection during winter months. We collect waterproof gloves and mittens in all sizes, from children to adults, ensuring that working families and outdoor laborers can maintain their livelihoods while staying protected from the cold. Special attention is given to collecting thermal and work-appropriate gloves for those who work in challenging outdoor conditions.",
+    "status": "Active",
+    "contactInfo": "+880 1812-345678",
+    "division": "Sylhet"
+  },
+  {
+    "id": 4,
+    "title": "Winter Warmth Initiative",
+    "image": "https://img.freepik.com/free-photo/group-friends-exchanging-gifts-after-reunion_23-2149256261.jpg?t=st=1731905311~exp=1731908911~hmac=80f5137bc1b37d0887aa32cf8cd1465db61823e01d128206522de95aea5febfb&w=1380",
+    "description": "A comprehensive winter relief program targeting homeless individuals and families. We distribute high-quality scarves, hats, and thermal wear through our network of mobile distribution units. Our team of volunteers conducts regular night patrols in urban areas, providing immediate warmth to those living on the streets while connecting them with local shelter services and support programs.",
+    "status": "Completed",
+    "contactInfo": "contact@winterwarmth.org.bd",
+    "division": "Rajshahi"
+  },
+  {
+    "id": 5,
+    "title": "Cold Weather Relief",
+    "image": "https://img.freepik.com/free-photo/kids-learnign-about-environment_23-2149176648.jpg?t=st=1731905365~exp=1731908965~hmac=535f14fa83ef66a876a1b87ac35dd240c4fc55d174358bfcfbf9b89d83b5f61b&w=1380",
+    "description": "Our initiative specializes in distributing high-quality thermal blankets to vulnerable communities. We work directly with manufacturers to source durable, weather-resistant blankets that provide maximum warmth. Our distribution network includes rural areas and urban slums, with special focus on families with young children, elderly residents, and those living in poorly insulated housing conditions.",
+    "status": "Active",
+    "contactInfo": "+880 1913-456789",
+    "division": "Khulna"
+  },
+  {
+    "id": 6,
+    "title": "Bundle Up Campaign",
+    "image": "https://img.freepik.com/free-photo/girls-with-donation-box_23-2148480291.jpg?t=st=1731905416~exp=1731909016~hmac=32a635df86c0b8b2e91e7ed568c088ecd83adea5f4399e0bd96e5b3ab2cdf4ac&w=1380",
+    "description": "A dedicated initiative focused on providing complete winter wear sets for children from low-income families. Each bundle includes a warm jacket, thermal underwear, boots, gloves, and a hat. We partner with local schools to identify children in need and work with pediatricians to ensure the clothing meets health and safety standards for different age groups.",
+    "status": "Active",
+    "contactInfo": "info@bundleup.org.bd",
+    "division": "Barisal"
+  },
+  {
+    "id": 7,
+    "title": "Keep Them Warm Drive",
+    "image": "https://img.freepik.com/free-photo/man-pouring-coffee-his-girlfriend_23-2148714939.jpg?t=st=1731905488~exp=1731909088~hmac=5eab917422f8a49bc8c334f2441d8a7830ee36d2143af556b938981ab8037a72&w=1380",
+    "description": "A shelter-focused winter clothing distribution program working directly with homeless shelters and temporary housing facilities. We collect and distribute season-appropriate clothing, including heavy coats, thermal wear, and boots. Our volunteer teams also provide mobile laundry services to help maintain the clothing in good condition throughout the winter season.",
+    "status": "Completed",
+    "contactInfo": "+880 1614-567890",
+    "division": "Rangpur"
+  },
+  {
+    "id": 8,
+    "title": "Spread Warmth Campaign",
+    "image": "https://img.freepik.com/free-vector/flat-design-clothing-donation-concept_23-2148812829.jpg?t=st=1731905559~exp=1731909159~hmac=1d182a3639861e59cb1f64a76283a789b7b9e91661f5b9d905767219ca3699da&w=826",
+    "description": "An elderly-focused initiative providing essential winter clothing to senior citizens in care homes and assisted living facilities. Our program includes regular distribution of warm jackets, thermal socks, and indoor shoes. We also organize social gatherings where seniors can receive their winter gear while enjoying community support and companionship.",
+    "status": "Active",
+    "contactInfo": "help@spreadwarmth.org.bd",
+    "division": "Mymensingh"
+  },
+  {
+    "id": 9,
+    "title": "Stay Cozy Initiative",
+    "image": "https://cdn.pixabay.com/photo/2021/01/23/18/40/child-5943325_960_720.jpg",
+    "description": "A comprehensive winter clothing program targeting underprivileged communities in both urban and rural areas. We conduct detailed needs assessments to identify the most vulnerable families and provide them with customized winter clothing packages. Our initiative includes educational workshops on winter health and safety, along with regular follow-ups to ensure the effectiveness of distributed items.",
+    "status": "Active",
+    "contactInfo": "+880 1715-678901",
+    "division": "Dhaka"
+  },
+  {
+    "id": 10,
+    "title": "Frostbite Prevention Drive",
+    "image": "https://cdn.pixabay.com/photo/2015/11/06/15/19/poverty-1028841_960_720.jpg",
+    "description": "A specialized campaign focusing on preventing cold-related injuries through proper winter gear distribution. We provide high-quality, weather-resistant clothing and educational materials about frostbite prevention. Our team includes medical professionals who conduct workshops on recognizing and preventing cold-weather health risks while distributing appropriate protective gear.",
+    "status": "Active",
+    "contactInfo": "info@frostbite-prevention.org.bd",
+    "division": "Chittagong"
+  },
+  {
+    "id": 11,
+    "title": "Helping Hands for Winter",
+    "image": "https://cdn.pixabay.com/photo/2016/09/20/21/44/begging-1683496_960_720.jpg",
+    "description": "An emergency response initiative focusing on providing winter essentials to communities affected by natural disasters. We maintain a ready stock of winter supplies and can quickly deploy to affected areas. Our team works closely with disaster relief agencies to identify immediate needs and distribute warm clothing, blankets, and thermal wear to displaced families and individuals.",
+    "status": "Active",
+    "contactInfo": "+880 1816-789012",
+    "division": "Sylhet"
+  },
+  {
+    "id": 12,
+    "title": "Operation Warmth",
+    "image": "https://cdn.pixabay.com/photo/2022/10/17/16/27/man-7528211_960_720.jpg",
+    "description": "A child-focused winter clothing program that provides new, high-quality winter wear to children from low-income families. Each child receives a complete set of winter clothing, including a new coat, boots, thermal underwear, and accessories. We work with school counselors and social workers to identify children in need while maintaining their dignity and privacy.",
+    "status": "Completed",
+    "contactInfo": "contact@operation-warmth.org.bd",
+    "division": "Rajshahi"
+  },
+  {
+    "id": 13,
+    "title": "Warm Toes Campaign",
+    "image": "https://cdn.pixabay.com/photo/2017/12/12/01/47/plush-boots-3013700_960_720.jpg",
+    "description": "A specialized initiative focused on providing quality footwear and socks to low-income families during winter months. We collect and distribute waterproof boots, thermal socks, and indoor footwear. Our program includes partnerships with local shoe stores to provide new footwear at discounted rates, ensuring recipients receive durable items that will last throughout the season.",
+    "status": "Active",
+    "contactInfo": "+880 1917-890123",
+    "division": "Khulna"
+  },
+  {
+    "id": 14,
+    "title": "Frosty Aid Initiative",
+    "image": "https://cdn.pixabay.com/photo/2015/08/26/15/07/first-aid-908591_960_720.jpg",
+    "description": "A comprehensive winter support program providing families with essential cold-weather gear. We focus on distributing high-quality coats, snow boots, and winter accessories to families struggling with winter expenses. Our initiative includes home visits to assess specific needs and ensure proper sizing, along with follow-up support throughout the winter season.",
+    "status": "Active",
+    "contactInfo": "help@frostyaid.org.bd",
+    "division": "Barisal"
+  },
+  {
+    "id": 15,
+    "title": "Project Warm Souls",
+    "image": "https://cdn.pixabay.com/photo/2017/08/01/08/16/couple-2563424_960_720.jpg",
+    "description": "A targeted homeless shelter support program specializing in blanket distribution and winter care. We provide high-quality, durable blankets to homeless shelters while also conducting regular street outreach to distribute emergency blankets to rough sleepers. Our program includes partnerships with local businesses to provide warm meals alongside blanket distribution.",
+    "status": "Completed",
+    "contactInfo": "+880 1618-901234",
+    "division": "Rangpur"
+  },
+  {
+    "id": 16,
+    "title": "Winter Cheer Drive",
+    "image": "https://cdn.pixabay.com/photo/2020/02/10/21/04/valentine-4837689_960_720.jpg",
+    "description": "A community-based winter clothing initiative focusing on sweater collection and distribution. We organize neighborhood collection drives and partner with local knitting groups to provide both new and handmade sweaters to those in need. Our program includes size-specific collection campaigns and careful quality checks to ensure all items provide adequate warmth.",
+    "status": "Active",
+    "contactInfo": "info@wintercheer.org.bd",
+    "division": "Mymensingh"
+  },
+  {
+    "id": 17,
+    "title": "Hats for Hope",
+    "image": "https://cdn.pixabay.com/photo/2018/12/02/10/59/cap-3851017_960_720.jpg",
+    "description": "A specialized campaign focused on providing warm headwear to vulnerable populations. We collect and distribute high-quality winter hats, including thermal caps and ear protection gear. Our program particularly targets outdoor workers, school children, and elderly individuals who need protection from cold winds and freezing temperatures during their daily activities.",
+    "status": "Completed",
+    "contactInfo": "+880 1719-012345",
+    "division": "Dhaka"
+  },
+  {
+    "id": 18,
+    "title": "Chill Relief Campaign",
+    "image": "https://cdn.pixabay.com/photo/2022/02/05/22/08/toddler-6995812_960_720.jpg",
+    "description": "A comprehensive winter protection program for children, focusing on providing thermal clothing sets to kids from low-income families. Each package includes thermal underwear, insulated outerwear, and accessories. We work closely with pediatricians to ensure age-appropriate clothing selection and conduct regular size updates as children grow throughout the season.",
+    "status": "Active",
+    "contactInfo": "support@chillrelief.org.bd",
+    "division": "Chittagong"
+  },
+  {
+    "id": 19,
+    "title": "Cold Season Care Drive",
+    "image": "https://img.freepik.com/free-photo/friends-enjoying-winter-trip_23-2149314431.jpg",
+    "description": "A senior-focused winter care initiative providing essential warm clothing to elderly community members. We distribute high-quality sweaters, thermal blankets, and warm accessories specifically designed for senior comfort and safety. Our program includes home delivery services and regular check-ins to ensure the items meet their needs throughout the winter months.",
+    "status": "Active",
+    "contactInfo": "+880 1820-123456",
+    "division": "Sylhet"
+  },
+  {
+    "id": 20,
+    "title": "Blanket Hope Initiative",
+    "image": "https://img.freepik.com/free-photo/medium-shot-woman-posing-fast-fashion-concept_23-2150805330.jpg?t=st=1731906457~exp=1731910057~hmac=2c7928c1553f3ccc0201668c1fe2873d12bd26845f8bb652f294dee90b4ad5db&w=1380",
+    "description": "Distributing blankets to areas affected by snowstorms.",
+    "status": "Active",
+    "contactInfo": "contact@blankethope.org.bd",
+    "division": "Rajshahi"
+  },
+  {
+    "id": 21,
+    "title": "Warm Winter Walk",
+    "image": "https://img.freepik.com/free-photo/senior-couple-walking-neighbourhood_23-2148399526.jpg?t=st=1731906505~exp=1731910105~hmac=5a10a14a76eecec7d922e7b701285091718d279956599919cf578696431db167&w=1060",
+    "description": "A walkathon to gather winter gear for the underprivileged.",
+    "status": "Active",
+    "contactInfo": "+880 1921-234567",
+    "division": "Khulna"
+  },
+  {
+    "id": 22,
+    "title": "Warming Hands Drive",
+    "image": "https://img.freepik.com/free-photo/cute-family-playing-spring-forest_1157-30018.jpg?t=st=1731906547~exp=1731910147~hmac=f7cba2c4ed5fed1fb0386c9b560552f7a3dfaa591a0ce900e6a345044c90cdb6&w=1380",
+    "description": "Providing gloves to street vendors and daily laborers.",
+    "status": "Completed",
+    "contactInfo": "info@warminghands.org.bd",
+    "division": "Barisal"
+  }
+]
